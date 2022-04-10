@@ -2,7 +2,7 @@
 
  pokedex with all first generation pokemons!
  
- Using pokeAPI
+ Using pokeAPI, HTML5, CSS3, JS
  
  https://romulooliveira94.github.io/podekex/
  
